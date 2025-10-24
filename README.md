@@ -2,10 +2,10 @@
 
 EduSense — real-time student emotion & engagement monitor.
 
-## Run locally
-1. Create & activate venv:
+
+1. Create & activate venv: (Recommended to avoid clashes)
    - `python -m venv .venv`
-   - `.\.venv\Scripts\Activate.ps1` (PowerShell)
+   - `.\.venv\Scripts\Activate.ps1` 
 2. Install:
    - `pip install -r requirements.txt`
 3. Start backend:
