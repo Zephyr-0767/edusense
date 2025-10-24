@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+fer==22.5.1
+opencv-python
+tensorflow-cpu==2.10
+tensorflow-directml-plugin
+numpy==1.26.4
+requests
+pillow
